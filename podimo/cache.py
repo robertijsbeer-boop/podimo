@@ -1,4 +1,4 @@
-# Copyright 2022 Thijs Raymakers
+# Copyright 2022 Thijs Raymakers van derboom 
 #
 # Licensed under the EUPL, Version 1.2 or – as soon they
 # will be approved by the European Commission - subsequent
